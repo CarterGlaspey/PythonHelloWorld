@@ -1,8 +1,10 @@
-
-
-
+""""
+ This is my first program it outputs Hello World! to the screen.
+ Carter Glaspey September 2024
+"""
 def main():
-  pass
+  name: str = input("What is your name? ")
+  print("Hello", name, "!")
 
 
 
